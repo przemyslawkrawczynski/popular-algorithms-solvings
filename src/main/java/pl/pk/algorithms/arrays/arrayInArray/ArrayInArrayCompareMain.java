@@ -19,6 +19,6 @@ public class ArrayInArrayCompareMain {
 
         IntSets result = resultList.get(resultList.size() - 1);
 
-        System.out.println("The last mached value is on position: " + result.getPosition());
+        System.out.println("The last matched value is on position: " + result.getPosition());
     }
 }

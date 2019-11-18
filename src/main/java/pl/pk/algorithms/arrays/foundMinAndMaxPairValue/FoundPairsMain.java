@@ -1,4 +1,4 @@
-package pl.pk.algorithms.arrays.found2IntsInArray;
+package pl.pk.algorithms.arrays.foundMinAndMaxPairValue;
 
 //This program founds max and min sum of pair ints in array
 // array [0, 5, 10, 5, 0, 15]

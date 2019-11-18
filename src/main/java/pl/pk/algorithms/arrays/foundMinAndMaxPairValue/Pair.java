@@ -1,4 +1,4 @@
-package pl.pk.algorithms.arrays.found2IntsInArray;
+package pl.pk.algorithms.arrays.foundMinAndMaxPairValue;
 
 import java.util.Objects;
 

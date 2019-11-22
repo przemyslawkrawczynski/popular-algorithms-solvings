@@ -1,4 +1,4 @@
-package pl.pk.algorithms.whatWeSeAfterCompilation;
+package pl.pk.algorithms.whatWeSeAfterCompilation.extendings;
 
 class Derived extends Base {
     public Derived() {

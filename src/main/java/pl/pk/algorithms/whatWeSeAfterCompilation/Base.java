@@ -1,4 +1,4 @@
-package pl.pk.algorithms.test;
+package pl.pk.algorithms.whatWeSeAfterCompilation;
 
 public class Base {
 

@@ -14,7 +14,6 @@ public class ReversNumberMain {
             num = num / 10;
 
             System.out.println(createdNum);
-            System.out.println(num);
         } while (num > 0);
     }
 }

@@ -1,4 +1,4 @@
-package pl.pk.algorithms.patterns;
+package pl.pk.algorithms.patterns.singleton;
 
 public class PatternsMain {
 

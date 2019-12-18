@@ -30,13 +30,13 @@ public class FunctionalInterfaceMain {
         return result;
     }
 
-    //Methods which can by use as lambda funciton
+    //Methods which can by use as lambda function
 
     public static void printMessage(String a) {
         System.out.println(a);
     }
 
-    public static String myFunction(Integer num) {
+    private static String myFunction(Integer num) {
         return String.valueOf(num * 10);
     }
 

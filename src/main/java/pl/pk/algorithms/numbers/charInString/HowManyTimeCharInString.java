@@ -24,7 +24,7 @@ public class HowManyTimeCharInString {
         }
 
         for (Map.Entry<String, Integer> entry: resultMap.entrySet()) {
-            System.out.println("Znak [" + entry.getKey() + "] is [" + entry.getValue() + "] times." );
+            System.out.println("Char [" + entry.getKey() + "] is [" + entry.getValue() + "] times." );
         }
     }
 }

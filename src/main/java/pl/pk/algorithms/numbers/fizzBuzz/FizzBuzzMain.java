@@ -4,7 +4,7 @@ public class FizzBuzzMain {
 
     public static void main(String[] args) {
 
-        int range = 21;
+        int range = 100;
 
         for (int i = 0; i < range; i++ ) {
             if ((i % 3) == 0 && (i % 5) == 0) {

@@ -8,7 +8,7 @@ public class ArrayInArrayCompareMain {
     public static void main(String[] args) {
 
         int[] a1 = {1, 4, 6, 3, 7, 9, 1, 4};
-        int[] a2 = {1, 4, 6};
+        int[] a2 = {1, 4};
 
         IntsService intsService = new IntsService();
 
